@@ -2,7 +2,9 @@
 
 자바스크립트로 백준 온라인 저지 문제를 풀도록 돕는 레포지토리입니다.
 
-코드 템플릿 및 추천 문제를 제공합니다.
+**코드 템플릿**과 **추천 문제**를 제공합니다.
+
+</br>
 
 ### Template
 
@@ -53,32 +55,37 @@ console.log(solution(x, y, z, arr));
 - 답이 한 줄일 경우 basic의 return처럼 작성합니다.
 - 여러 줄일 경우 반드시 extended의 return과 같이 배열내에 답을 넣어 `join('\n')`으로 하나의 string으로 만들어야 합니다.
 
+</br>
+
 ### Suggest
 
 - 코딩 테스트에 주로 나오는 유형을 정리하였습니다.
 - JS를 완전히 지원하지 않는 백준 플랫폼 특성상 다음의 기준에 적합한 문제들을 선별하였습니다.
   - 맞힌 사람 3,000명 이상
   - JS로 푼 사람 10명 이상
+  - 난이도 플래티넘 이하
 - 각 링크를 클릭하여 해당 문서로 이동할 수 있습니다.
 
-| Title                 | Name                 | Count | Link |
-| --------------------- | -------------------- | ----- | ---- |
-| Implementation        | 구현                 | 0     |      |
-| Dynamic Programming   | 동적계획법           | 0     |      |
-| Bruteforce            | 브루트포스           | 0     |      |
-| Sorting               | 정렬                 | 0     |      |
-| Binary Search         | 이분 탐색            | 0     |      |
-| BFS & DFS             | 너비 & 깊이 우선탐색 | 0     |      |
-| Prefix Sum            | 누적합               | 0     |      |
-| Dijkstra              | 다익스트라           | 0     |      |
-| Disjoint Set          | 분리 집합            | 0     |      |
-| Backtracking          | 백 트래킹            | 0     |      |
-| Stack & Queue         | 스택 & 큐            | 0     |      |
-| Two Pointer           | 투 포인터            | 0     |      |
-| Minimum Spanning Tree | 최소 스패닝 트리     | 0     |      |
-| Topological Sorting   | 위상 정렬            | 0     |      |
-| Floyd-warshall        | 플로이드 와샬        | 0     |      |
-| Sliding Window        | 슬라이딩 윈도우      | 0     |      |
+| Title                 | Name                 | Count | Link                                                                               |
+| --------------------- | -------------------- | ----- | ---------------------------------------------------------------------------------- |
+| Implementation        | 구현                 | 7     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Implementation) |
+| Dynamic Programming   | 동적계획법           | 0     |                                                                                    |
+| Bruteforce            | 브루트포스           | 0     |                                                                                    |
+| Sorting               | 정렬                 | 0     |                                                                                    |
+| Binary Search         | 이분 탐색            | 0     |                                                                                    |
+| BFS & DFS             | 너비 & 깊이 우선탐색 | 0     |                                                                                    |
+| Prefix Sum            | 누적합               | 0     |                                                                                    |
+| Dijkstra              | 다익스트라           | 0     |                                                                                    |
+| Disjoint Set          | 분리 집합            | 0     |                                                                                    |
+| Backtracking          | 백 트래킹            | 0     |                                                                                    |
+| Stack & Queue         | 스택 & 큐            | 0     |                                                                                    |
+| Two Pointer           | 투 포인터            | 0     |                                                                                    |
+| Minimum Spanning Tree | 최소 스패닝 트리     | 0     |                                                                                    |
+| Topological Sorting   | 위상 정렬            | 0     |                                                                                    |
+| Floyd-warshall        | 플로이드 와샬        | 0     |                                                                                    |
+| Sliding Window        | 슬라이딩 윈도우      | 0     |                                                                                    |
+
+</br>
 
 ### Contributor
 
