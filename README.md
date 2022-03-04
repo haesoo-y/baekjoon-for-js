@@ -61,9 +61,10 @@ console.log(solution(x, y, z, arr));
 
 - 코딩 테스트에 주로 나오는 유형을 정리하였습니다.
 - JS를 완전히 지원하지 않는 백준 플랫폼 특성상 다음의 기준에 적합한 문제들을 선별하였습니다.
-  - 맞힌 사람 3,000명 이상
+  - 맞힌 사람 1,000명 이상
   - JS로 푼 사람 10명 이상
   - 난이도 플래티넘 이하
+- 위 조건에 맞는 문제가 10개 이하일 경우, 조건에 맞지 않더라도 충분히 JS로 풀 수 있다면 추가합니다. (이 경우 반드시 직접 풀고 풀이 링크 추가)
 - 각 링크를 클릭하여 해당 문서로 이동할 수 있습니다.
 
 | Title                 | Name                 | Count | Link                                                                                    |
@@ -83,7 +84,7 @@ console.log(solution(x, y, z, arr));
 | Minimum Spanning Tree | 최소 스패닝 트리     | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/MinimumSpanningTree) |
 | Topological Sorting   | 위상 정렬            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TopologicalSorting)  |
 | Floyd-warshall        | 플로이드 와샬        | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/FloydWarshall)       |
-| Sliding Window        | 슬라이딩 윈도우      | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/SlidingWindow)       |
+| Sliding Window        | 슬라이딩 윈도우      | 3     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/SlidingWindow)       |
 
 </br>
 
