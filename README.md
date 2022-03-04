@@ -1,4 +1,4 @@
-# Backjoon for JS
+# Baekjoon for JS
 
 자바스크립트로 백준 온라인 저지 문제를 풀도록 돕는 레포지토리입니다.
 
