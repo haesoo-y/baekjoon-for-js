@@ -6,7 +6,7 @@
 
 </br>
 
-### Template
+### 🔮 Template
 
 - JS는 브라우저 환경에서 작동하므로 백준 사이트의 문제를 풀기 위해서는 Node JS 를 사용해야 합니다.
 - Node JS로 코드를 작성하기 위해 다음의 두 가지 템플릿을 권장드립니다.
@@ -57,7 +57,7 @@ console.log(solution(x, y, z, arr));
 
 </br>
 
-### Suggest
+### 💡 Suggestion
 
 - 코딩 테스트에 주로 나오는 유형을 정리하였습니다.
 - JS를 완전히 지원하지 않는 백준 플랫폼 특성상 다음의 기준에 적합한 문제들을 선별하였습니다.
@@ -66,30 +66,30 @@ console.log(solution(x, y, z, arr));
   - 난이도 플래티넘 이하
 - 각 링크를 클릭하여 해당 문서로 이동할 수 있습니다.
 
-| Title                 | Name                 | Count | Link                                                                               |
-| --------------------- | -------------------- | ----- | ---------------------------------------------------------------------------------- |
-| Implementation        | 구현                 | 7     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Implementation) |
-| Dynamic Programming   | 동적계획법           | 0     |                                                                                    |
-| Bruteforce            | 브루트포스           | 0     |                                                                                    |
-| Sorting               | 정렬                 | 0     |                                                                                    |
-| Binary Search         | 이분 탐색            | 0     |                                                                                    |
-| BFS & DFS             | 너비 & 깊이 우선탐색 | 0     |                                                                                    |
-| Prefix Sum            | 누적합               | 0     |                                                                                    |
-| Dijkstra              | 다익스트라           | 0     |                                                                                    |
-| Disjoint Set          | 분리 집합            | 0     |                                                                                    |
-| Backtracking          | 백 트래킹            | 0     |                                                                                    |
-| Stack & Queue         | 스택 & 큐            | 0     |                                                                                    |
-| Two Pointer           | 투 포인터            | 0     |                                                                                    |
-| Minimum Spanning Tree | 최소 스패닝 트리     | 0     |                                                                                    |
-| Topological Sorting   | 위상 정렬            | 0     |                                                                                    |
-| Floyd-warshall        | 플로이드 와샬        | 0     |                                                                                    |
-| Sliding Window        | 슬라이딩 윈도우      | 0     |                                                                                    |
+| Title                 | Name                 | Count | Link                                                                                    |
+| --------------------- | -------------------- | ----- | --------------------------------------------------------------------------------------- |
+| Implementation        | 구현                 | 7     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Implementation)      |
+| Dynamic Programming   | 동적계획법           | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/DynamicProgramming)  |
+| Bruteforce            | 브루트포스           | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Bruteforce)          |
+| Sorting               | 정렬                 | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Sorting)             |
+| Binary Search         | 이분 탐색            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/BinarySearch)        |
+| BFS & DFS             | 너비 & 깊이 우선탐색 | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/BFSDFS)              |
+| Prefix Sum            | 누적합               | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/PrefixSum)           |
+| Dijkstra              | 다익스트라           | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Dijkstra)            |
+| Disjoint Set          | 분리 집합            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/DisjointSet)         |
+| Backtracking          | 백 트래킹            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Backtracking)        |
+| Stack & Queue         | 스택 & 큐            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/StackQueue)          |
+| Two Pointer           | 투 포인터            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TwoPointer)          |
+| Minimum Spanning Tree | 최소 스패닝 트리     | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/MinimumSpanningTree) |
+| Topological Sorting   | 위상 정렬            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TopologicalSorting)  |
+| Floyd-warshall        | 플로이드 와샬        | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/FloydWarshall)       |
+| Sliding Window        | 슬라이딩 윈도우      | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/SlidingWindow)       |
 
 </br>
 
-### Contributor
+### 🐳 Contributor
 
-|           [harry](https://github.com/haesoo9410)           |
+|           [Harry](https://github.com/haesoo9410)           |
 | :--------------------------------------------------------: |
 | <img src="https://github.com/haesoo9410.png" height="100"> |
 
