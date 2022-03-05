@@ -9,3 +9,5 @@
 | 5     | 17413  | 단어 뒤집기 2    | S3    | [바로가기](https://www.acmicpc.net/problem/17413) |          |
 | 6     | 1051   | 숫자 정사각형    | S3    | [바로가기](https://www.acmicpc.net/problem/1051)  |          |
 | 7     | 1244   | 스위치 켜고 끄기 | S3    | [바로가기](https://www.acmicpc.net/problem/1244)  |          |
+|8|1769|3의 배수|S5|[바로가기](https://www.acmicpc.net/problem/1769)|[풀이](https://github.com/haesoo9410/Baekjoon_JS/blob/main/Implementation/1769.js)|
+|9|11576|Base Conversion|S5|[바로가기](https://www.acmicpc.net/problem/11576)|[풀이](https://github.com/haesoo9410/Baekjoon_JS/blob/main/Implementation/11576.js)|
