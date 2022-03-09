@@ -14,13 +14,13 @@
 **basic**
 
 ```js
-const fs = require('fs');
+const fs = require("fs");
 // TODO: 제출 시 경로 변환 필수 ("/dev/stdin")
-const input = fs.readFileSync('test.txt').toString().trim().split('\n');
+const input = fs.readFileSync("test.txt").toString().trim().split("\n");
 
 // 풀이
 function solution(arr) {
-  const [a, b] = arr[0].split(' ');
+  const [a, b] = arr[0].split(" ");
   return Number(a) + Number(b);
 }
 
@@ -30,9 +30,9 @@ console.log(solution(input));
 **extended**
 
 ```js
-const fs = require('fs');
+const fs = require("fs");
 // TODO: 제출 시 경로 변환 필수 ("/dev/stdin")
-const input = fs.readFileSync('test.txt').toString().trim().split('\n');
+const input = fs.readFileSync("test.txt").toString().trim().split("\n");
 // 정리
 /* ex.
 const x = Number(input[0]);
@@ -42,7 +42,7 @@ const arr = input[2].split(' ');
 // 풀이
 function solution(x, y, z, arr) {
   const answer = [];
-  return answer.join('\n');
+  return answer.join("\n");
 }
 
 console.log(solution(x, y, z, arr));
@@ -75,7 +75,7 @@ console.log(solution(x, y, z, arr));
 | Bruteforce            | 브루트포스           | 5     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Bruteforce)          |
 | Sorting               | 정렬                 | 5     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Sorting)             |
 | Binary Search         | 이분 탐색            | 3     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/BinarySearch)        |
-| BFS & DFS             | 너비 & 깊이 우선탐색 | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/BFSDFS)              |
+| BFS & DFS             | 너비 & 깊이 우선탐색 | 10    | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/BFSDFS)              |
 | Prefix Sum            | 누적합               | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/PrefixSum)           |
 | Dijkstra              | 다익스트라           | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Dijkstra)            |
 | Disjoint Set          | 분리 집합            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/DisjointSet)         |
