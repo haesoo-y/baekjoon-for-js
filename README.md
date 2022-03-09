@@ -84,7 +84,7 @@ console.log(solution(x, y, z, arr));
 | Two Pointer           | 투 포인터            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TwoPointer)          |
 | Minimum Spanning Tree | 최소 스패닝 트리     | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/MinimumSpanningTree) |
 | Topological Sorting   | 위상 정렬            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TopologicalSorting)  |
-| Floyd-warshall        | 플로이드 와샬        | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/FloydWarshall)       |
+| Floyd-warshall        | 플로이드 와샬        | 2     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/FloydWarshall)       |
 | Sliding Window        | 슬라이딩 윈도우      | 3     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/SlidingWindow)       |
 
 </br>
