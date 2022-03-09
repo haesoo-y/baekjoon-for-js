@@ -77,7 +77,7 @@ console.log(solution(x, y, z, arr));
 | Binary Search         | 이분 탐색            | 3     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/BinarySearch)        |
 | BFS & DFS             | 너비 & 깊이 우선탐색 | 10    | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/BFSDFS)              |
 | Prefix Sum            | 누적합               | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/PrefixSum)           |
-| Dijkstra              | 다익스트라           | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Dijkstra)            |
+| Dijkstra              | 다익스트라           | 2     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Dijkstra)            |
 | Disjoint Set          | 분리 집합            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/DisjointSet)         |
 | Backtracking          | 백 트래킹            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Backtracking)        |
 | Stack & Queue         | 스택 & 큐            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/StackQueue)          |
