@@ -14,13 +14,13 @@
 **basic**
 
 ```js
-const fs = require("fs");
+const fs = require('fs');
 // TODO: 제출 시 경로 변환 필수 ("/dev/stdin")
-const input = fs.readFileSync("test.txt").toString().trim().split("\n");
+const input = fs.readFileSync('test.txt').toString().trim().split('\n');
 
 // 풀이
 function solution(arr) {
-  const [a, b] = arr[0].split(" ");
+  const [a, b] = arr[0].split(' ');
   return Number(a) + Number(b);
 }
 
@@ -30,9 +30,9 @@ console.log(solution(input));
 **extended**
 
 ```js
-const fs = require("fs");
+const fs = require('fs');
 // TODO: 제출 시 경로 변환 필수 ("/dev/stdin")
-const input = fs.readFileSync("test.txt").toString().trim().split("\n");
+const input = fs.readFileSync('test.txt').toString().trim().split('\n');
 // 정리
 /* ex.
 const x = Number(input[0]);
@@ -42,7 +42,7 @@ const arr = input[2].split(' ');
 // 풀이
 function solution(x, y, z, arr) {
   const answer = [];
-  return answer.join("\n");
+  return answer.join('\n');
 }
 
 console.log(solution(x, y, z, arr));
@@ -83,7 +83,7 @@ console.log(solution(x, y, z, arr));
 | Stack & Queue         | 스택 & 큐            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/StackQueue)          |
 | Two Pointer           | 투 포인터            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TwoPointer)          |
 | Minimum Spanning Tree | 최소 스패닝 트리     | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/MinimumSpanningTree) |
-| Topological Sorting   | 위상 정렬            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TopologicalSorting)  |
+| Topological Sorting   | 위상 정렬            | 2     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TopologicalSorting)  |
 | Floyd-warshall        | 플로이드 와샬        | 2     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/FloydWarshall)       |
 | Sliding Window        | 슬라이딩 윈도우      | 3     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/SlidingWindow)       |
 
