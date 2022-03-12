@@ -70,7 +70,7 @@ console.log(solution(x, y, z, arr));
 | Title                 | Name                 | Count | Link                                                                                    |
 | --------------------- | -------------------- | ----- | --------------------------------------------------------------------------------------- |
 | Implementation        | 구현                 | 9     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Implementation)      |
-| Dynamic Programming   | 동적계획법           | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/DynamicProgramming)  |
+| Dynamic Programming   | 동적계획법           | 7     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/DynamicProgramming)  |
 | Greedy                | 그리디               | 3     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Greedy)              |
 | Bruteforce            | 브루트포스           | 5     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Bruteforce)          |
 | Sorting               | 정렬                 | 5     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Sorting)             |
