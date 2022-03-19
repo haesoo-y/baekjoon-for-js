@@ -80,7 +80,7 @@ console.log(solution(x, y, z, arr));
 | Dijkstra              | 다익스트라           | 2     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Dijkstra)            |
 | Disjoint Set          | 분리 집합            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/DisjointSet)         |
 | Backtracking          | 백 트래킹            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/Backtracking)        |
-| Stack & Queue         | 스택 & 큐            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/StackQueue)          |
+| Stack & Queue         | 스택 & 큐            | 1     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/StackQueue)          |
 | Two Pointer           | 투 포인터            | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TwoPointer)          |
 | Minimum Spanning Tree | 최소 스패닝 트리     | 0     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/MinimumSpanningTree) |
 | Topological Sorting   | 위상 정렬            | 2     | [바로가기](https://github.com/haesoo9410/baekjoon-for-js/tree/main/TopologicalSorting)  |
