@@ -91,9 +91,9 @@ console.log(solution(x, y, z, arr));
 
 ### 🐳 Contributor
 
-|           [Harry](https://github.com/haesoo9410)           |         [Mulgyeol](https://github.com/Mulgyeol)          |          [KGC9175](https://github.com/KGC9175)          |
-| :--------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------: |
-| <img src="https://github.com/haesoo9410.png" height="100"> | <img src="https://github.com/Mulgyeol.png" height="100"> | <img src="https://github.com/KGC9175.png" height="100"> |
+|           [Harry](https://github.com/haesoo-y)           |         [Mulgyeol](https://github.com/Mulgyeol)          |          [KGC9175](https://github.com/KGC9175)          |
+| :------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------: |
+| <img src="https://github.com/haesoo-y.png" height="100"> | <img src="https://github.com/Mulgyeol.png" height="100"> | <img src="https://github.com/KGC9175.png" height="100"> |
 
 - 기준에 적합한 문제는 언제든 PR을 남겨주세요.
 - 커밋 컨벤션은 [깃모지](https://haesoo9410.tistory.com/301)를 따르고 있으며 지키지 않아도 좋습니다.
